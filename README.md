@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em busca de uma oportunidade de estagiar na área de desenvolvimento
 - 🌱 Estudando desenvolvimento mobile Java
-- 🤔 Estou aberto a críticas e idéias nova
+- 🤔 Estou aberto a críticas e idéias novas
 - 📫 Para entrar em contato comigo: kenzo300104@gmail.com
 <div>
   <a href="https://github.com/kenzo3001">

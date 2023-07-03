@@ -5,7 +5,7 @@
 - 🤔 Estou aberto a críticas e idéias novas
 - 📫 Para entrar em contato comigo: kenzo300104@gmail.com
 <div>
-  <a href="www.linkedin.com/in/victor-kenzo-nobre-watanabe-009767265">
+  <a href="https://github.com/kenzo3001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzo3001&show_icons=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo3001&layout=compact&theme=dark" />
   </a>

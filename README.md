@@ -4,7 +4,13 @@
 - 🌱 Estudando desenvolvimento de aplicativos
 - 🤔 Estou aberto a críticas e idéias novas
 - 📫 Para entrar em contato comigo: kenzo300104@gmail.com
-
+##
+<div>
+  <a href="https://github.com/alexfelipe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo3001&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzo3001&show_icons=true&theme=radical" />
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

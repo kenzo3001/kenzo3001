@@ -8,9 +8,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kenzo-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=120&color=00ff11">
+  <img align="center" alt="Kenzo-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Kenzo-Red-Hat" height="30" width="40" src="https://icongr.am/devicon/redhat-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Kenzo-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Kenzo-PowerShell" height="30" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
 </div>
 
 ##
